@@ -1,0 +1,15 @@
+nosetests.xml
+pylint.out
+pep8.out
+logs/
+*~
+*.pyc
+*.pid
+ve
+tmp
+.idea
+storage
+logs
+tags
+app_version
+~                  
